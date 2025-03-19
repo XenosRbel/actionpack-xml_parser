@@ -3,6 +3,7 @@ require 'active_support/core_ext/hash/conversions'
 require 'action_dispatch'
 require 'action_dispatch/http/request'
 require 'action_pack/xml_parser/version'
+require 'action_pack/hash'
 
 module ActionPack
   class XmlParser

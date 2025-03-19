@@ -22,6 +22,7 @@ Gem::Specification.new do |s|
 
   s.add_dependency('actionpack', '>= 5.0')
   s.add_dependency('railties', '>= 5.0')
+  s.add_dependency('nokogiri', '>= 1.11.3')
 
   s.add_development_dependency('rake')
 end

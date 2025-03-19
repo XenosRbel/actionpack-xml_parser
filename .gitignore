@@ -1,9 +1,10 @@
 *.gem
 *.rbc
+*.lock
 .bundle
+.idea
 .config
 .yardoc
-*.lock
 InstalledFiles
 _yardoc
 coverage
